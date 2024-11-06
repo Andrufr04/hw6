@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    color: rgb(77, 77, 77);
+}
+
+.header {
+    background-color: rgb(236, 236, 236);
+    margin: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    width: 800px; 
+}
+
+p {
+    color: rgb(63, 61, 61);
+}
+
+ol {
+    padding-left: 20px;
+
+}
+
+.text {
+    font-size: 14px;
+    color: rgb(147, 147, 147);
+}
+
+#synonyms {
+    color: rgb(49, 107, 241);
+}

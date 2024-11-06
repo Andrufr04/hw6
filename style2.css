@@ -1,0 +1,37 @@
+.header {
+    font-family: Arial;
+    background-color: rgb(233, 233, 233);
+    margin:auto;
+    width: 500px;
+}
+
+h2 {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.list li {
+    display: block;
+    padding: 10px;
+    background-color: rgb(196, 226, 236);
+    border-bottom: 1px solid #ddd;
+}
+
+#item {
+    background-color: rgb(243, 243, 243);
+}
+
+.task
+{
+    text-decoration: line-through;
+}
+
+.x {
+    font-weight: bold;
+    color: rgb(172, 0, 0);
+}
+
+span{
+    padding: 20px;
+}
